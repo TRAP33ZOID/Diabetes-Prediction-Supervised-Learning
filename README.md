@@ -1,4 +1,4 @@
-Diabetes Prediction Project
+# Diabetes-Prediction-Supervised-Learning
 Overview
 
 This project aims to predict whether a person has diabetes based on various health metrics. Using the National Institute of Diabetes and Digestive and Kidney Diseases dataset, we built and compared different machine learning models to find the best one.
